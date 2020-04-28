@@ -1,0 +1,11 @@
+FORM{background-color:#341297;color:gold;font:bold;border-radius:40px;font-weight:bold;width:90%;padding:50px;
+margin-left:;margin-right:auto;text-align:justified;border-radius:20px}
+#ins{border-radius:40px}
+#container{width:1200px;height:750px;margin-left:; margin-right:auto; border-radius:20px; margin-top:15px;background-position:relative;
+background-color:#orange}
+#aside{width:150px;height:600px;float:left;margin-right:0px;margin-left:0px;background-color:gray;text-align:left;
+border-radius:10px;}
+#tops{width:1200px;height:70px;background-color:#000000;border-radius:10px;text-align:center;color:red;font-size:50;}
+#view{width:1050px;height:600px;float:right;background-color:white;border-radius:10px;overflow-y: scroll;max-height:600px}
+#footers{width:1200px;height:80px;background-color:black;border-radius:10px;text-align:center;color:#788097;font-size:20;}
+.vi{overflow-y: scroll;max-height:500px}
